@@ -78,3 +78,11 @@ a {
 .card-2 .icon {
   background-color: lightblue;
 }
+
+/* box model expemple */
+.exemple {
+  width: 200px;
+  border: 5px solid red;
+  padding: 10px;
+  margin: 15px;
+}
